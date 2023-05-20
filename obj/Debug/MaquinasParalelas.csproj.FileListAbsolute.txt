@@ -1,0 +1,13 @@
+C:\TodosProjetos\MaquinasParalelasUPMS\MaquinasParalelas\bin\Debug\MaquinasParalelas.exe.config
+C:\TodosProjetos\MaquinasParalelasUPMS\MaquinasParalelas\bin\Debug\MaquinasParalelas.exe
+C:\TodosProjetos\MaquinasParalelasUPMS\MaquinasParalelas\bin\Debug\MaquinasParalelas.pdb
+C:\TodosProjetos\MaquinasParalelasUPMS\MaquinasParalelas\obj\Debug\MaquinasParalelas.csproj.AssemblyReference.cache
+C:\TodosProjetos\MaquinasParalelasUPMS\MaquinasParalelas\obj\Debug\MaquinasParalelas.Properties.Resources.resources
+C:\TodosProjetos\MaquinasParalelasUPMS\MaquinasParalelas\obj\Debug\MaquinasParalelas.csproj.GenerateResource.cache
+C:\TodosProjetos\MaquinasParalelasUPMS\MaquinasParalelas\obj\Debug\MaquinasParalelas.csproj.CoreCompileInputs.cache
+C:\TodosProjetos\MaquinasParalelasUPMS\MaquinasParalelas\obj\Debug\MaquinasParalelas.exe
+C:\TodosProjetos\MaquinasParalelasUPMS\MaquinasParalelas\obj\Debug\MaquinasParalelas.pdb
+C:\TodosProjetos\MaquinasParalelasUPMS\MaquinasParalelas\obj\Debug\MaquinasParalelas.Form1.resources
+C:\TodosProjetos\MaquinasParalelasUPMS\MaquinasParalelas\bin\Debug\gurobi91.netstandard20.dll
+C:\TodosProjetos\MaquinasParalelasUPMS\MaquinasParalelas\bin\Debug\gurobi91.netstandard20.xml
+C:\TodosProjetos\MaquinasParalelasUPMS\MaquinasParalelas\obj\Debug\MaquinasParalelas.csproj.CopyComplete
